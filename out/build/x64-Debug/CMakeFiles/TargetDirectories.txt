@@ -1,0 +1,6 @@
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/crs.dir
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Users/ivan/Desktop/Практика/crs/out/build/x64-Debug/CMakeFiles/install/local.dir
